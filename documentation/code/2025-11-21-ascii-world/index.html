@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/src/style.css" />
+    <title>2025-11-21-ascii-world</title>
+  </head>
+  <body>
+    <div id="controls">
+      <input type="file" id="upload" accept="image/*" />
+      <label> Width: <input type="text" id="widthInput" value="100%" /> </label>
+      <label>
+        Height: <input type="text" id="heightInput" value="100%" />
+      </label>
+            <label>
+t        Resolution (chars): <input type="number" id="resolutionInput" value="100" />
+      </label>
+      <label>
+        Font file (in public/fonts/): <input type="text" id="fontFileInput" placeholder="e.g. myfont.ttf" value="cambam-stick-4.ttf" />
+      </label>
+    </div>
+    </div>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
