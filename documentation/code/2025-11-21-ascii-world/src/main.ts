@@ -15,8 +15,8 @@ let currentImg: HTMLImageElement | null = null;
 let currentFontFamily = "monospace";
 let filename = "cambam-stick-4.ttf";
 
-// Characters from "hello, world" sorted roughly by density (light to dark)
-const DENSITY = revert(" ,rloedhw");
+// Characters from "hello, world!" sorted roughly by density (light to dark)
+const DENSITY = revert(" ,r!loedhw");
 
 fontFileInput.addEventListener("change", async () => {
   filename = fontFileInput.value.trim();
