@@ -6,6 +6,7 @@
       {
         "id": "70e8c953d42f3ade",
         "type": "tabs",
+        "dimension": 63.94878706199461,
         "children": [
           {
             "id": "2d80f676d021b973",
@@ -19,6 +20,23 @@
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bc1c57d14a2de8b1",
+        "type": "tabs",
+        "dimension": 36.05121293800539,
+        "children": [
+          {
+            "id": "98a1f3962270311a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "9c0c5c3a5c7fa75a",
@@ -181,10 +199,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d80f676d021b973",
+  "active": "98a1f3962270311a",
   "lastOpenFiles": [
-    "documentation/references/README.md",
     "documentation/observations/README.md",
+    "documentation/observations/consciousness as a buffer between me and the world.md",
+    "documentation/observations/virtual makes the invisible visible.md",
+    "production/2025-11-23/the synthetic world.canvas",
+    "production/2025-11-23/the synthetic world.md",
+    "documentation/references/README.md",
+    "documentation/references/lost ego.md",
+    "documentation/references/l'être et l'écran.md",
+    "documentation/references/de la bêtise artificielle.md",
+    "production/README.md",
+    "production/the synthetic world.canvas",
+    "production/Untitled.canvas",
+    "production/2025-11-23",
+    "production/the synthetic world.md",
+    "documentation/observations/Untitled.canvas",
+    "production",
     "observations/README.md",
     "observations",
     "documentation/code/README.md",

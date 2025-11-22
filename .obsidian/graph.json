@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "-path:node_modules -file:README",
+  "collapse-filter": true,
+  "search": "-path:node_modules -file:README -file:.canvas",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 2.0048619229218385,
   "close": false
 }
