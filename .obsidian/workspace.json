@@ -6,23 +6,16 @@
       {
         "id": "70e8c953d42f3ade",
         "type": "tabs",
-        "dimension": 55.59299191374662,
+        "dimension": 48.31299353912419,
         "children": [
           {
             "id": "2d80f676d021b973",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "production/2025-11-23/the synthetic world.canvas",
-                "viewState": {
-                  "x": -543.4798646992957,
-                  "y": 79.88113177645496,
-                  "zoom": -0.6498868831686788
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "the synthetic world"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -30,7 +23,7 @@
       {
         "id": "bc1c57d14a2de8b1",
         "type": "tabs",
-        "dimension": 44.40700808625337,
+        "dimension": 51.68700646087581,
         "children": [
           {
             "id": "98a1f3962270311a",
@@ -38,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "production/2025-11-23/the synthetic world.md",
+                "file": "production/the synthetic world.md",
                 "mode": "source",
                 "source": false
               },
@@ -103,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 290.5
   },
   "right": {
     "id": "9c0c5c3a5c7fa75a",
@@ -206,22 +199,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d80f676d021b973",
+  "active": "98a1f3962270311a",
   "lastOpenFiles": [
+    "production/ascii-world.md",
+    "production/the synthetic world.md",
+    "production/assets/ascii-world.png",
+    "production/assets",
+    "documentation/references/nectome.md",
+    "documentation/observations/immortalité mémorielle dans le cloud.md",
+    "production/the synthetic world.canvas",
+    "documentation/observations/expérience interactive psychédélique.md",
+    "documentation/references/aux sources de l'utopie numérique.md",
+    "documentation/references/the corporation and the counterculture.md",
+    "documentation/observations/cybernétique et contrôle.md",
+    "documentation/observations/le monde est une perception technique.md",
+    "documentation/references/l'être et l'écran.md",
+    "documentation/observations/la simulation rend visible l'invisible.md",
+    "documentation/observations/interprétation de la carte \"le monde\".md",
+    "documentation/references/le monde (tarot).md",
+    "documentation/observations/l'écriture comme mémoire artificielle.md",
     "documentation/observations/README.md",
-    "production/2025-11-23/the synthetic world.md",
     "documentation/observations/consciousness as a buffer between me and the world.md",
-    "documentation/observations/virtual makes the invisible visible.md",
-    "production/2025-11-23/the synthetic world.canvas",
     "documentation/references/README.md",
     "documentation/references/lost ego.md",
-    "documentation/references/l'être et l'écran.md",
     "documentation/references/de la bêtise artificielle.md",
     "production/README.md",
-    "production/the synthetic world.canvas",
     "production/Untitled.canvas",
     "production/2025-11-23",
-    "production/the synthetic world.md",
     "documentation/observations/Untitled.canvas",
     "production",
     "observations/README.md",
