@@ -6,20 +6,23 @@
       {
         "id": "70e8c953d42f3ade",
         "type": "tabs",
-        "dimension": 63.94878706199461,
+        "dimension": 55.59299191374662,
         "children": [
           {
             "id": "2d80f676d021b973",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "documentation/observations/README.md",
-                "mode": "source",
-                "source": false
+                "file": "production/2025-11-23/the synthetic world.canvas",
+                "viewState": {
+                  "x": -543.4798646992957,
+                  "y": 79.88113177645496,
+                  "zoom": -0.6498868831686788
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "the synthetic world"
             }
           }
         ]
@@ -27,16 +30,20 @@
       {
         "id": "bc1c57d14a2de8b1",
         "type": "tabs",
-        "dimension": 36.05121293800539,
+        "dimension": 44.40700808625337,
         "children": [
           {
             "id": "98a1f3962270311a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "production/2025-11-23/the synthetic world.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "the synthetic world"
             }
           }
         ]
@@ -199,13 +206,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "98a1f3962270311a",
+  "active": "2d80f676d021b973",
   "lastOpenFiles": [
     "documentation/observations/README.md",
+    "production/2025-11-23/the synthetic world.md",
     "documentation/observations/consciousness as a buffer between me and the world.md",
     "documentation/observations/virtual makes the invisible visible.md",
     "production/2025-11-23/the synthetic world.canvas",
-    "production/2025-11-23/the synthetic world.md",
     "documentation/references/README.md",
     "documentation/references/lost ego.md",
     "documentation/references/l'être et l'écran.md",
