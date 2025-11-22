@@ -1,0 +1,5 @@
+# Immortalité mémorielle dans le cloud
+
+> Alors que l'entreprise Neuralink fondée par Elon Musk promet d'augmenter mémoire et pensée grâce aux implants de puces électroniques dans les cerveaux, la start-up [Nectome](../references/nectome.md), en partie financée par l'incubateur Y Combinator présidé par Sam Altman, promet à ses clients de les ressusciter dans le cloud grâce à l'"extraction mémo-rielle". Pour ce faire, il suffit de récupérer les informations stockées dans les cerveaux, eux-mêmes conservés dans de l'azote liquide après le décès des personnes concernées. "Si votre cerveau est mort, c'est un peu comme si votre ordinateur s'éteignait. Ça ne veut pas dire que les informations à l'intérieur sont perdues", soutient Kenneth Hayworth, alors président de la Brain Preservation Foundation, qui a remis un pris à Nectome.
+
+[de la bêtise artificielle](../references/de%20la%20bêtise%20artificielle.md) - p.32
