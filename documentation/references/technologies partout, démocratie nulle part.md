@@ -1,0 +1,2 @@
+# Technologies partout, démocratie nulle part
+Régnauld, I., & Benayoun, Y. (2024). _Technologies partout, démocratie nulle part : Plaidoyer pour que les choix technologiques deviennent l'affaire de tous_ Paris : FYP.

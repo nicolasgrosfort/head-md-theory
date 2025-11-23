@@ -1,0 +1,5 @@
+# La mémoire artificielle rend l’oubli habituel
+
+Une fois conservées dans les supports matériels, les connaissances n'auront plus besoin d'être remémorées par les individus: ils se contenteront de répéter des discours figés au lieu de faire l'effort de les retenir et de les interpréter - leur faculté mémorielle s'en trouvera donc affaiblie'. Mais il ne s'agit pas seulement d'un problème d'oubli, puisque si les connaissances ne sont pas remémorées, réappropriées, interprétées et transformées, si elles ne sont que mécaniquement répétées, comment la pensée collective des sociétés pourrait-elle évoluer? Le risque pointé par Platon est donc à la fois celui d'une perte des capacités mémorielles individuelles et d'une atrophie de la culture collective. L'écriture, qui apparait comme une augmentation technique de la mémoire et du savoir, se renverse en son contraire: ==la mémoire artificielle rend l’oubli habituel==, les connaissances figées deviennent une suite de clichés- ==l’augmentation devient destruction et le remède poison==.
+
+[schizophrénie numérique](../references/schizophrénie%20numérique.md) - p.42 & 43

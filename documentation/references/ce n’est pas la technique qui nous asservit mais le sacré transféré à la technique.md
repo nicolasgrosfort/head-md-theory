@@ -1,0 +1,3 @@
+# Ce n’est pas la technique qui nous asservit mais le sacré transféré à la technique
+
+**Devaux, J. (réal.), Fashahi, M. (réal.), Page, M. (réal.), & Marsset, A. (réal.).** (2025, 12 août). _Épisode 2/5 : « Ce n’est pas la technique qui nous asservit mais le sacré transféré à la technique »_ [Épisode de podcast]. **Avoir raison avec… Jacques Ellul**. France Culture. https://www.franceculture.fr/emissions/avoir-raison-avec-jacques-ellul/ce-nest-pas-la-technique-qui-nous-asservit-mais-le-sacre-transfere-a-la-technique

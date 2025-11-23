@@ -6,7 +6,7 @@
       {
         "id": "70e8c953d42f3ade",
         "type": "tabs",
-        "dimension": 40.20618556701031,
+        "dimension": 37.53894080996885,
         "children": [
           {
             "id": "dc90939bfe500472",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/observations/usage ergonomique et non réflexif.md",
+                "file": "documentation/observations/design fiction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "usage ergonomique et non réflexif"
+              "title": "design fiction"
             }
           }
         ]
@@ -27,7 +27,7 @@
       {
         "id": "bc1c57d14a2de8b1",
         "type": "tabs",
-        "dimension": 59.79381443298969,
+        "dimension": 62.46105919003115,
         "children": [
           {
             "id": "98a1f3962270311a",
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 205.50247192382812
   },
   "right": {
     "id": "9c0c5c3a5c7fa75a",
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,34 +205,34 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
-    "documentation/observations/usage ergonomique et non réflexif.md",
+    "documentation/observations/design fiction.md",
+    "documentation/observations/la technique n'est pas neutre.md",
+    "documentation/observations/la mémoire artificielle rend l’oubli habituel.md",
     "production/the synthetic world.md",
-    "documentation/references/schizophrénie numérique.md",
-    "documentation/observations/illusion de transparence.md",
-    "documentation/references/how to speak Machine.md",
-    "documentation/references/vibe coding and elite engineering.md",
+    "documentation/observations/automatisation de la pensée.md",
+    "documentation/observations/luter contre la technique.md",
+    "documentation/references/ce n’est pas la technique qui nous asservit mais le sacré transféré à la technique.md",
     "documentation/observations/mégastructure accidentelle.md",
-    "documentation/references/ai can’t feel emotions. can you?.md",
-    "documentation/observations/la communication remplace le manuel.md",
-    "documentation/references/the stack (philosophy).md",
-    "documentation/observations/exploitation des ressources symboliques et culturelles.md",
-    "documentation/observations/immortalité mémorielle dans le cloud.md",
-    "documentation/observations/l'anglais comme langage de programmation.md",
-    "documentation/observations/simuler les émotions humaine pour augmenter l'adoption.md",
-    "documentation/observations/la simulation rend visible l'invisible.md",
-    "documentation/observations/expérience interactive psychédélique.md",
-    "documentation/references/the state of vibe coding.md",
-    "documentation/observations/le monde est une perception technique.md",
-    "documentation/observations/la conscience comme sas entre deux chaos.md",
-    "documentation/observations/l'écriture comme mémoire artificielle.md",
-    "documentation/observations/interprétation de la carte \"le monde\".md",
-    "documentation/observations/intelligences artificielles extractives.md",
-    "documentation/observations/idéologie transhumaniste.md",
-    "documentation/observations/extraction en épire.md",
-    "documentation/observations/cybernétique et contrôle.md",
-    "documentation/references/aux sources de l'utopie numérique.md",
-    "assets",
+    "documentation/references/what is design fiction?.md",
+    "documentation/references/la théorie des « capabilités » d’amartya sen face au problème du relativisme.md",
+    "documentation/observations/liberté de choix.md",
     "production/the synthetic world.canvas",
+    "documentation/observations/eloge de la non-puissance.md",
+    "documentation/observations/contrôle démocratique des technologies.md",
+    "documentation/references/technologies partout, démocratie nulle part.md",
+    "documentation/observations/échapper à la technique.md",
+    "documentation/references/catalog for the post-human.md",
+    "documentation/observations/le succès dépend de notre augmentation.md",
+    "documentation/references/schizophrénie numérique.md",
+    "documentation/observations/efficacité comme une norme.md",
+    "documentation/references/comprendre le \"système technicien\" de jacques ellul, disparu il y a trente ans.md",
+    "documentation/observations/destruction progressive des facultés de penser.md",
+    "documentation/references/l'horreur existentielle de l'usine à trombones.md",
+    "documentation/observations/automatisation des savoir penser.md",
+    "documentation/observations/extériorisation des savoirs.md",
+    "documentation/references/les algorithmes contre la société.md",
+    "documentation/observations/les algorithmes sont des opinions encapsulés dans du code.md",
+    "assets",
     "production/assets/the synthetic worlds.png",
     "production/assets/ascii-world.png",
     "production/assets",
