@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "documentation/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +206,8 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
-    "production/README.md",
     "documentation/README.md",
+    "production/README.md",
     "README.md",
     "production/the synthetic worlds.canvas",
     "production/assets/the synthetic worlds.png",
