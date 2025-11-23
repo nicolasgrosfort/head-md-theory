@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "documentation/references/manifeste pour le renouveau social et critique du design.md",
+                "file": "documentation/observations/pharmakon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "manifeste pour le renouveau social et critique du design"
+              "title": "pharmakon"
             }
           }
         ]
@@ -206,15 +206,17 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
-    "documentation/observations/illusion de transparence.md",
+    "documentation/observations/pharmakon.md",
     "production/the synthetic world.md",
+    "documentation/references/manifeste pour le renouveau social et critique du design.md",
+    "documentation/observations/eloge de la non-puissance.md",
+    "documentation/references/comprendre le \"système technicien\" de jacques ellul, disparu il y a trente ans.md",
+    "documentation/observations/illusion de transparence.md",
     "documentation/observations/la machine de toutes les machines.md",
     "documentation/observations/habitabilité du monde.md",
     "documentation/observations/efficacité comme une norme.md",
-    "documentation/references/comprendre le \"système technicien\" de jacques ellul, disparu il y a trente ans.md",
     "documentation/observations/sous la haute surveillance de machines pleines d'amour et de grâce.md",
     "documentation/references/aux sources de l'utopie numérique.md",
-    "documentation/references/manifeste pour le renouveau social et critique du design.md",
     "documentation/references/the stack (philosophy).md",
     "documentation/observations/les multiples couches interconnectées dont dépend le calcul à l'échelle planétaire.md",
     "documentation/observations/design fiction.md",
@@ -230,9 +232,7 @@
     "documentation/references/la théorie des « capabilités » d’amartya sen face au problème du relativisme.md",
     "documentation/observations/liberté de choix.md",
     "production/the synthetic world.canvas",
-    "documentation/observations/eloge de la non-puissance.md",
     "documentation/observations/contrôle démocratique des technologies.md",
-    "documentation/references/technologies partout, démocratie nulle part.md",
     "assets",
     "production/assets/the synthetic worlds.png",
     "production/assets/ascii-world.png",
