@@ -2,52 +2,9 @@
 
 ## Introduction
 
+Le monde que nous habitons n'a peut-être jamais existé en tant que "donnée" brute, mais toujours et plutôt en tant que construction. Ils est fabriqués par des techniques, des récits, des représentations qui filtrent et reconfigurent ce qui nous apparaît comme réel. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025) - somatiques, symboliques, techniques - qui participe à la fabrication - ou peut-être à la destruction - de "[l'habitabilité du monde](../documentation/observations/habitabilité%20du%20monde.md)" (Gauthier & cie, 2014).
 
-Le monde est multi stack. https://en.wikipedia.org/wiki/The_stack_(philosophy)
-
-
-
-Lien avec Vial : le virtuel est réel, c'est du potentiel. Et la simulation permet de rendre visible une réalité invisible, même si celle ci n'est pas réelle : anthropomorphisation. 
-
-C’est peut-être là la condition de maintien d’une forme d’habitabilité du monde technique : un monde lissé, émotionnellement acceptable, dans lequel la froideur du calcul est recouverte d’un langage empathique. Or, la machine ne comprend pas, ne pense pas — elle calcule.
-
-[exploitation des ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)
-
-Le monde a-t-il jamais été autre chose qu'une construction ? Une réalité artificielle faite de représentations plurielle ? Une strate de couches perceptives et symboliques qui fabrique à la fois le soi et le non-soi : l’individu et la représentation qu’il se fait du monde. 
-
-Comme l’écrit De Smet, "[la conscience est une construction mentale que le cerveau construit comme sas entre deux chaos : celui de nos propre neurones d'une part et celui du monde d'autre part](../documentation/observations/la%20conscience%20comme%20sas%20entre%20deux%20chaos.md)" (De Smet, 2017). Notre perception du monde serait alors produite par un dispositif artificiel - un appareillage perceptif-somatique-symbolique aussi appelé « je ». 
-
-Ce "je" serait alors une simulation qui permettrait la transformation d'un noumène biologique en phénomène perceptible, une "*réalités pour la science, mais inaccessible à la perception sans appareillage technique*" (Vial, 2017).  Technique qui elle même structure l'expérience que nous faisons du monde puisqu'elle "[conditionne la manière dont le réel ou l'être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017). 
-
-À la lecture de "[Aux sources de l'utopie numérique](../documentation/references/aux%20sources%20de%20l'utopie%20numérique.md)" (Turner, 2006), il est facile de constater que plusieurs mondes existent, ont existé et existeront. Souvent formés en période de guerre, d'utopie, de croyance, de peurs ou de rêves qui s'en sont suivies, ces mondes étaient pour certains des représentation collectives, et possiblement pour d'autres un peu plus individuel.
-
-Qu'il s'agisse de techno-mysticisme, notamment au travers d'expérience interactive qui "[ressemble quelque peu à une expérience psychédélique](../documentation/observations/expérience%20interactive%20psychédélique.md)" (Turner, 2014) , d'organisme cybernétiques, web, écriture, ...
-
-
-De plus, si la technique structure l'expérience que nous faisons du monde en "[conditionne(ant) la manière dont le réel ou l'être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p.76). 
-
-Parler de cycle ?
-Lien avec la cybernétique
-Point commun entre ces mondes ?
-Parles des couches ?
-
-Dans le jeu traditionnel du Tarot, la carte du Monde symbolise l’achèvement d’un cycle, et le commencement d'un autre; le passage d'un état de convergence à un état de divergence. 
-Suzane Treister, au travers de son projet HEXGEN 2.0, qui "[explore simultanément diverses réponses philosophiques, littéraires et politiques aux progrès technologiques](../documentation/references/hexgen%202.0.md)" (Treister, 2009-2011).
-
-Conclure l'introduction sur comment on délègue de plus en plus notre "être au monde" à la machine ?
-
-Le jeu de tarot "HEXGEN 2.0" de Suzane Treister nous a été donné comme base de réflexion pour naviguer dans les différents faits historiques et conceptuels qui ont façonné ce que nous connaissons de nos technologies numérique aujourd'hui, à commencer par le développement de la cybernétique.
-
-Piocher une carte : le monde.
-
-En tirant cette carte, alors que nous utilisions le jeu de tarot "HEXGEN 2.0" de Suzane Treister comme support de discussion et d'apprentissage du développement de cybernétique et de l'histoire d'internet,
-
-Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
-
-Ils risquent de déléguer leurs facultés mémorielles aux supports artificiels, de réciter mécaniquement des savoirs sans en saisir le sens et de cesser d’entraîner leur propres capacités.
-
-Ou est-il, depuis l'invention du langage et plus spécifiquement de l'écriture, un support artificiel
-
+Ces couches produise ce que j'ai choisi de nommer "les mondes synthétiques". Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation de nos progressives de nos facultés d'être-au-monde. Monde dataset, monde vernis, monde délégué, monde résistant : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel, et posent une question simple : que devient l’humain quand le monde est de plus en plus façonné pour (et par ?) la machine ?
 ## Un monde "dataset"
 
 L'émergence de la cybernétique semble être l’un des glissements majeurs du XXᵉ siècle. En  étudiant "[la manière dont les systèmes de communication pouvaient servir à des fins de contrôle](../documentation/observations/cybernétique%20et%20contrôle.md)" (Turner, 2014), Norbert Wiener définit la cybernétique comme "[un champ dédié à « l'étude des messages en tant que moyens de contrôle sur les machines et la société », les machines incluant vraisemblablement, par analogie tout au moins, les organismes biologiques](../documentation/observations/définition%20de%20la%20cybernétique.md)" (Turner, 2006, p.62). Il semblerait qu’elle ait ainsi contribué à la transformation progressive du monde en système d’information, dans lequel territoires, corps, gestes et comportements deviennent des données calculables, compréhensibles et traitables par des machines.
@@ -96,14 +53,14 @@ Nous ne déléguons plus seulement nos calculs, mais nos choix, nos évaluations
 
 Ce faisant, en sollicitant un modèle de langage pour rédiger un texte, nous laissons la machine colorer nos propos, choisir l’enchaînement des mots, et nous nous privons de la part de ressenti liée à l’acte même d’écrire. Le faire-faire devient un faire-penser ou un faire-ressentir : le processus de création - et donc en un sens de ressentir - se déplace hors du corps humain.
 
-Pourtant, la machine ne ressent pas : elle performe. L’efficacité devient son seul horizon moral. Comme le souligne Jacques Ellul, l’État moderne - tout comme la technique - est désormais régi par "[une même logique : l’efficacité, au nom d’un exercice de la rationalité](../documentation/observations/efficacité%20comme%20une%20norme.md)" (==A PRECISER==), signe que cette valeur s’impose comme norme supérieure à toute considération humaine ou morale.
+Pourtant, la machine ne ressent pas : elle performe. L’efficacité devient son seul horizon moral. Comme le souligne Jacques Ellul, l’État moderne - tout comme la technique - est désormais régi par "[une même logique : l’efficacité, au nom d’un exercice de la rationalité](../documentation/observations/efficacité%20comme%20une%20norme.md)" (Larmagnac-Matheron, 2024), signe que cette valeur s’impose comme norme supérieure à toute considération humaine ou morale.
 
 Et c’est certainement dans cette efficacité que réside le potentiel destructeur de la machine. Sur le monde, comme le démontre l'expérience de pensée de la logique sans fin du Paperclip Maximizer, où une IA détruit le monde pour accomplir son objectif de fabrication de trombone ([EGO, 2024](../documentation/references/l'horreur%20existentielle%20de%20l'usine%20à%20trombones.md)). Et sur les individus, avec la "[destruction progressive des facultés de penser, par une industrie numérique qui fait des énergies psychiques sa première source de profit économique](../documentation/observations/destruction%20progressive%20des%20facultés%20de%20penser.md)" (Alombert, 2023, p.14)
 
 Ce glissement vers une morale de l’efficacité risque donc de produire un effet miroir : nous nous algomorphisons. Nous cherchons à nous transcender, à nous optimiser, à nous augmenter. L’humain devient modèle de performance et la machine, objet d’attachement et de dépendance du savoir-être-au-monde. Comme le montre Catalog for the Post-Human, nous entrons dans une ère où "[le succès dépend de notre capacité à rester mentalement aiguisés, continuellement quantifiés, et prêts à travailler selon les horaires irréguliers dictés par des entreprises pilotées par des algorithmes](../documentation/observations/le%20succès%20dépend%20de%20notre%20augmentation.md)" (Parsons & Charlesworth, 2021). La délégation devient alors un impératif : déléguer pour tenir, déléguer pour suivre, déléguer pour rester compétitif - quitte à céder nos propres facultés.
 ## Un monde "résistant"
 
-Face à cette totalisation du calcul et de la délégation, certaines pratiques semblent réintroduire la possibilité d’autres futurs. La techno-désobéissance ou les mouvements open-source rouvrent des espaces de partage, d’expérimentation et de débat. Comme le rappelait Jacques Ellul, "[l’homme est placé devant un choix exclusif : utiliser la technique comme elle doit l’être selon les règles techniques, ou ne pas l’utiliser du tout](../documentation/observations/échapper%20à%20la%20technique.md)" (==A PRECISER==).  Cette possibilité du refus demeure peut-être l’un des derniers gestes politiques face au système technicien. 
+Face à cette totalisation du calcul et de la délégation, certaines pratiques semblent réintroduire la possibilité d’autres futurs. La techno-désobéissance ou les mouvements open-source rouvrent des espaces de partage, d’expérimentation et de débat. Comme le rappelait Jacques Ellul, "[l’homme est placé devant un choix exclusif : utiliser la technique comme elle doit l’être selon les règles techniques, ou ne pas l’utiliser du tout](../documentation/observations/échapper%20à%20la%20technique.md)" (Larmagnac-Matheron, 2024).  Cette possibilité du refus demeure peut-être l’un des derniers gestes politiques face au système technicien. 
 
 Cette éloge de la "non-puissance", qui se distingue de l'impuissance par le fait qu'elle demeure un choix : "[je peux et ne le ferai pas](../documentation/observations/eloge%20de%20la%20non-puissance.md)" (A PRECISER), invite à une réappropriation critique du monde technique, notamment par la lenteur, la friction, et la transparence. Il s'agit autrement dit - en un sens - de s'opposer à la quête de la performance et peut-être, en un sens, à accepter sa condition de "mortel", ou plus globalement d'existance finie dans un monde fini. 
 
@@ -119,26 +76,52 @@ C'est peut-être ce qu'invite Jacque Ellul à faire lorsqu'il rappelle qu'on "[n
 
 On peut y lire une issue - fragile, mais possible. Si tout est délégué aux machines, il restera peut-être à l’humain la question du sens : qu’est-ce qu’être vivant, qu’est-ce que l'amour, qu’est-ce qu’éprouver ? Qu'est-ce qu'être humain ? L’automatisation totale pourrait paradoxalement nous ramener à ces interrogations fondamentales, et forcer un retour à l’émotion, au doute, à la réflexivité... pour autant que nous soyons encore capable de penser. 
 
-[A REFORMULER]Les mondes synthétique n’est donc pas une fin : il est une condition. Une condition à partir de laquelle il nous appartient de réapprendre à sentir dans un monde qui simule le vivant - à retrouver du sens dans l'absence d’efficacité, de la lenteur dans la vitesse, et de la présence dans la simulation.
+C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le poème de Richard Brautigan :
+
+> [Sous la haute surveillance de machines pleines d'amour et de grâce](../documentation/observations/sous%20la%20haute%20surveillance%20de%20machines%20pleines%20d'amour%20et%20de%20grâce.md) 
+> 
+> *Il me plaît à imaginer (et le plus tôt le mieux!) une prairie cybernétique ou mammifères et ordinateurs vivent ensemble une harmonie mutuellement programmée semblable à de l'eau pure effleurant un ciel sans nuage.*
+> 
+> *Il me plaît à imaginer (tout de suite, allons!) une forêt cybernétique semée d'électronique et de pins où les cerfs flânent en paix au-dessus d'ordinateurs pareils à des fleurs aux pétales filés.*
+> 
+> *Il me plaît à imaginer (il en sera ainsi!) une écologie cybernétique où nous sommes libres de tout travail réunis à la nature, mêlés aux mammifères nos frères et sœurs et sous la haute surveillance de machines pleines d'amour et de grâce.*
+
+(Turner, 2006, p-94)
+
+Les mondes synthétiques semblent ainsi réaliser le "vieux" rêve cybernétique : une réalité convertie en informations. Mais il reste à savoir si, dans ce paysage quadrillé par le calcul, nous pourrons encore entendre autre chose que le bruit des machines - un geste, un doute, un frémissement. C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles ?
 
 ---
 # The Synthetic Worlds 
 
-## Description
+## Intentions
 
-- Talk about the extractivist (and not generative) logic of AI.
-- Talk about how we transform the world to make it readable by machines.
-- It uses the first words a human typically exchanges when creating a robot (Hello, World!) as an ASCII characters to represent the world.
-- It represents the end or completion of a cycle, in this case, the cycle of the digitalization of the world.
-- The two slashes add put "synthetic" as comment, and evoke the two wands held by the woman on the original card.
-- The grid represents the standardization of the world, of ways of thinking, of know-how, of knowledge...
-- The title typography is that of the Whole Earth Catalog.
-- ASCII characters also refer to the concept of artificial memory (or more broadly, artificialized know-how).
-
-## Print
-
-- Could be printed with an axidraw robot.
-
-## Preview
+- Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction.
+- Montre comment nous remodelons progressivement le monde pour l’adapter aux attentes des machines, afin qu’il devienne entièrement découpable, mesurable, indexable.
+- Recompose la planète à partir de “Hello, World!”, ces premiers mots prononcés par un humain face à une machine : une manière de signifier que le monde lui-même devient un message adressé aux systèmes computationnels.
+- Représente la fin ou l’aboutissement d’un cycle : celui de la numérisation du monde.
+- Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle.
+- La grille évoque l’uniformisation des formes de vie et de pensée sous l’effet du calcul, la rationalisation des savoir-faire, et la mise à plat des singularités culturelles.
+- Le choix typographique renvoie au Whole Earth Catalog, symbole d’un imaginaire technologique à la fois utopique et pré-internet.
+- L’usage de l’ASCII renvoie à l’histoire des mémoires artificielles, et plus largement à la traduction du monde en signes manipulables par les ordinateurs.
+- L’ASCII évoque aussi la pauvreté expressive des systèmes techniques, - réduisant la complexité du monde à des symboles élémentaires (ici "hello world")
+- La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
+- Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
+## Aperçu
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
+
+(Sera imprimée avec un Robot Axidraw)
+
+---
+# À placer dans mon texte ? 
+
+[exploitation des ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)
+
+Comme l’écrit De Smet, "[la conscience est une construction mentale que le cerveau construit comme sas entre deux chaos : celui de nos propre neurones d'une part et celui du monde d'autre part](../documentation/observations/la%20conscience%20comme%20sas%20entre%20deux%20chaos.md)" (De Smet, 2017). Notre perception du monde serait alors produite par un dispositif artificiel - un appareillage perceptif-somatique-symbolique aussi appelé « je ». 
+
+Qu'il s'agisse de techno-mysticisme, notamment au travers d'expérience interactive qui "[ressemble quelque peu à une expérience psychédélique](../documentation/observations/expérience%20interactive%20psychédélique.md)" (Turner, 2014) , d'organisme cybernétiques, web, écriture, ...
+
+Dans le jeu traditionnel du Tarot, la carte du Monde symbolise l’achèvement d’un cycle, et le commencement d'un autre; le passage d'un état de convergence à un état de divergence. 
+Suzane Treister, au travers de son projet HEXGEN 2.0, qui "[explore simultanément diverses réponses philosophiques, littéraires et politiques aux progrès technologiques](../documentation/references/hexgen%202.0.md)" (Treister, 2009-2011).
+
+Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
