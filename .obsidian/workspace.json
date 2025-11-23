@@ -33,17 +33,14 @@
             "id": "98a1f3962270311a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "production/the synthetic world.canvas",
-                "viewState": {
-                  "x": -432,
-                  "y": 533,
-                  "zoom": -0.5716751899854942
-                }
+                "file": "documentation/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "the synthetic world"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "production/the synthetic world.canvas",
+                "file": "documentation/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the synthetic world"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -209,9 +206,12 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
+    "production/README.md",
+    "documentation/README.md",
+    "README.md",
+    "production/the synthetic worlds.canvas",
     "production/assets/the synthetic worlds.png",
-    "production/the synthetic world.md",
-    "production/assets/the synthetic worlds.png",
+    "production/the synthetic worlds.md",
     "documentation/observations/pharmakon.md",
     "documentation/references/manifeste pour le renouveau social et critique du design.md",
     "documentation/observations/eloge de la non-puissance.md",
@@ -234,9 +234,6 @@
     "documentation/references/ce n’est pas la technique qui nous asservit mais le sacré transféré à la technique.md",
     "documentation/observations/mégastructure accidentelle.md",
     "documentation/references/what is design fiction?.md",
-    "documentation/references/la théorie des « capabilités » d’amartya sen face au problème du relativisme.md",
-    "documentation/observations/liberté de choix.md",
-    "production/the synthetic world.canvas",
     "assets",
     "production/assets",
     "production/Untitled.canvas",
