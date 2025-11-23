@@ -33,13 +33,16 @@
             "id": "98a1f3962270311a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "production/the synthetic world.md",
-                "mode": "source",
-                "source": false
+                "file": "production/the synthetic world.canvas",
+                "viewState": {
+                  "x": -432,
+                  "y": 533,
+                  "zoom": -0.5716751899854942
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "the synthetic world"
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "production/the synthetic world.md",
+                "file": "production/the synthetic world.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,8 +209,10 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
-    "documentation/observations/pharmakon.md",
+    "production/assets/the synthetic worlds.png",
     "production/the synthetic world.md",
+    "production/assets/the synthetic worlds.png",
+    "documentation/observations/pharmakon.md",
     "documentation/references/manifeste pour le renouveau social et critique du design.md",
     "documentation/observations/eloge de la non-puissance.md",
     "documentation/references/comprendre le \"système technicien\" de jacques ellul, disparu il y a trente ans.md",
@@ -232,10 +237,7 @@
     "documentation/references/la théorie des « capabilités » d’amartya sen face au problème du relativisme.md",
     "documentation/observations/liberté de choix.md",
     "production/the synthetic world.canvas",
-    "documentation/observations/contrôle démocratique des technologies.md",
     "assets",
-    "production/assets/the synthetic worlds.png",
-    "production/assets/ascii-world.png",
     "production/assets",
     "production/Untitled.canvas",
     "production/2025-11-23",
