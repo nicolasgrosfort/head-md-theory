@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Le monde que nous habitons n'a peut-être jamais existé en tant que "donnée" brute, mais toujours et plutôt en tant que construction. Ils est fabriqués par des techniques, des récits, des représentations qui filtrent et reconfigurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), somatiques, symboliques et techniques, qui participe à la fabrication - et parfois peut-être à la destruction - de "[l'habitabilité du monde](../documentation/observations/habitabilité%20du%20monde.md)" (Gauthier & cie, 2014).
+Le monde que nous habitons n'a peut-être jamais existé en tant que "donnée" brute, mais toujours et plutôt en tant que construction (==Symbole, représentation==). Ils est fabriqués par des techniques, des récits, des représentations qui filtrent et reconfigurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), somatiques, symboliques et techniques, qui participe à la fabrication - et parfois peut-être à la destruction - de "[l'habitabilité du monde](../documentation/observations/habitabilité%20du%20monde.md)" (Gauthier & cie, 2014). (==LIEN AVEC LE COOURS DE ANDRE==), avec le fait que la machine fixe dans le temps une réalité organique qui évolue... quelque chose comme ça ? 
 
-Ces multiples couches produise ce que je propose de nommer "les mondes synthétiques". Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation progressives de nos facultés d'être-au-monde. Monde *dataset*, monde *vernis*, monde *délégué* et monde *résistant* : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel et reconfigure silencieusement la place - et surtout le role - que nous y tenons. 
+Ces multiples couches produise ce que je m'essaie à nommer "les mondes synthétiques". Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation progressives de nos facultés d'être-au-monde. Monde *dataset*, monde *vernis*, monde *délégué* et monde *résistant* : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel et reconfigure silencieusement la place - et surtout le role - que nous y tenons.  (avec des questionnement qui ne datent peut-être pas d'aujourd'hui, lien cybernétique ?)
 ## Un monde *dataset*
 
 L'émergence de la cybernétique semble être l’un des glissements majeurs du XXᵉ siècle. En  étudiant "[la manière dont les systèmes de communication pouvaient servir à des fins de contrôle](../documentation/observations/cybernétique%20et%20contrôle.md)" (Turner, 2014), Norbert Wiener définit la cybernétique comme "[un champ dédié à « l'étude des messages en tant que moyens de contrôle sur les machines et la société », les machines incluant vraisemblablement, par analogie tout au moins, les organismes biologiques](../documentation/observations/définition%20de%20la%20cybernétique.md)" (Turner, 2006, p.62). 
@@ -96,10 +96,10 @@ C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le 
 
 Les mondes synthétiques semblent ainsi réaliser le "vieux" rêve cybernétique : celui d’une réalité entièrement convertie en information. Mais il reste à savoir si, dans ce paysage quadrillé par le calcul, nous pourrons encore entendre autre chose que le silence des machines - un geste, un doute, un soupir. 
 
-C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles.
+C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles.(==RE TRAVAILLER==) 
+# The Card 
 
----
-# The Synthetic Worlds 
+![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
 
 ## Intentions
 
@@ -109,18 +109,18 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - Représente la fin ou l’aboutissement d’un cycle : celui de la numérisation du monde.
 - Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle.
 - La grille évoque l’uniformisation des formes de vie et de pensée sous l’effet du calcul, la rationalisation des savoir-faire, et la mise à plat des singularités culturelles.
-- Le choix typographique renvoie au Whole Earth Catalog, symbole d’un imaginaire technologique à la fois utopique et pré-internet.
+- Le choix typographique renvoie au [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md), symbole d’un imaginaire technologique à la fois utopique et pré-internet.
 - L’usage de l’ASCII renvoie à l’histoire des mémoires artificielles, et plus largement à la traduction du monde en signes manipulables par les ordinateurs.
 - L’ASCII évoque aussi la pauvreté expressive des systèmes techniques, - réduisant la complexité du monde à des symboles élémentaires (ici "hello world")
 - La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
 - Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
-## Aperçu
+- Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
+## Processus
 
-![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
+- Sera imprimée avec un Robot Axidraw
+# Présentation [en]
 
-(Sera imprimée avec un Robot Axidraw)
-
----
+...
 # À placer dans mon texte ? 
 
 [exploitation des ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)

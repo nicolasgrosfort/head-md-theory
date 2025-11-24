@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.50247192382812
+    "width": 278.5024719238281
   },
   "right": {
     "id": "9c0c5c3a5c7fa75a",
@@ -206,6 +206,15 @@
   },
   "active": "98a1f3962270311a",
   "lastOpenFiles": [
+    "documentation/observations/pharmakon.md",
+    "production/the synthetic worlds.md",
+    "documentation/references/première image de la terre depuis l'espace.md",
+    "documentation/references/whole earth catalog.md",
+    "documentation/references/assets/whole earth catalog.png",
+    "documentation/references/assets",
+    "documentation/references/assets/première image de la terre depuis l'espace.png",
+    "documentation/observations/Untitled.md",
+    "documentation/observations/assets",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/server.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/preview.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/postcss-import.js",
@@ -214,9 +223,6 @@
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/logger.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/lib.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/dist.js",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/config2.js",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/config.js",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/chunk.js",
     "documentation/code/2025-11-24-super-collider/node_modules/@esbuild/darwin-arm64/README.md",
     "documentation/code/2025-11-24-super-collider/node_modules/@types/estree/README.md",
     "documentation/code/2025-11-24-super-collider/node_modules/@rollup/rollup-darwin-arm64/README.md",
@@ -240,10 +246,6 @@
     "documentation/code/2025-11-24-super-collider/node_modules/esbuild/LICENSE.md",
     "documentation/code/2025-11-24-super-collider/src/typescript.svg",
     "documentation/code/2025-11-24-super-collider/public/vite.svg",
-    "documentation/code/super-collider/node_modules/@rollup/rollup-darwin-arm64/README.md",
-    "documentation/code/super-collider/node_modules/@types/estree/README.md",
-    "documentation/code/super-collider/node_modules/@esbuild/darwin-arm64/README.md",
-    "documentation/code/super-collider/node_modules/ws/README.md",
     "documentation/code/super-collider/src/typescript.svg",
     "documentation/code/super-collider/public/vite.svg",
     "production/the synthetic worlds.canvas",
