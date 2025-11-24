@@ -108,9 +108,9 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 # La Carte 
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
-
-
 ## Intentions
+
+### Visuel
 
 - Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction.
 - Montre comment nous remodelons progressivement le monde pour l’adapter aux attentes des machines, afin qu’il devienne entièrement découpable, mesurable, indexable.
@@ -124,7 +124,10 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
 - Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
 - Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
-- *Pensée pour être imprimée avec un Robot Axidraw.*
+### Processus
+
+- La carte du monde est imprimée par un robot AxiDraw : la machine façonne la carte, façonne le monde, et fige  - en la standardisant - sa représentation.
+- Clin d’œil géopolitique à un possible glissement de suprématie technologique : le dessin est réalisé avec un stylo chinois.
 # Présentation
 
 ...
