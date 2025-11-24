@@ -2,9 +2,11 @@
 
 ## Introduction
 
-Le monde que nous habitons n'a peut-être jamais existé comme une réalité objective et unique, mais plutôt comme une construction faite de symboles et de représentations, évoluant sans cesse. Ces représentations sont elles-mêmes façonnées par des techniques, des récits et des archétypes qui filtrent, orientent et (re)configurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. 
+Le monde que nous habitons n'a peut-être jamais existé comme une réalité objective et unique, mais plutôt comme une construction faite de symboles et de représentations, évoluant sans cesse. Ces représentations sont elles-mêmes façonnées par des techniques, des récits et des archétypes qui filtrent, orientent et (re)configurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde.
 
-Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), - somatiques, symboliques et techniques - qui participent à la fabrication, et parfois peut-être à la destruction, de "[l'ontophanie du monde](../documentation/observations/ontophanie%20du%20monde.md)" (Vial, 2017, p.134), et par la même occasion, à ses "[ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)" (Alombert, 2025, p.29)
+Appareillage perceptif qui est peut-être, d’abord, intérieur: comme l'écrit De Smet, "[la conscience est une construction mentale que le cerveau construit comme sas entre deux chaos : celui de nos propre neurones d'une part et celui du monde d'autre part](../documentation/observations/la%20conscience%20comme%20sas%20entre%20deux%20chaos.md)" (De Smet, 2017). Notre perception serait ainsi le produit d’un dispositif artificiel - un appareillage perceptif-somatique-symbolique - que nous appelons communément *je*.
+
+Dans cette perspective, le réel apparaît comme un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), - somatiques, symboliques et techniques - qui participent à la fabrication, et parfois peut-être à la destruction, de "[l'ontophanie du monde](../documentation/observations/ontophanie%20du%20monde.md)" (Vial, 2017, p.134), et par la même occasion, à ses "[ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)" (Alombert, 2025, p.29)
 
 Ces multiples couches produisent ce que je m’essaie à nommer _les mondes synthétiques_. Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation progressive de nos facultés d’être-au-monde. Monde _dataset_, monde _vernis_, monde _délégué_, monde _résistant_ : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel et reconfigurent silencieusement la place - et peut-être - en un sens, le rôle que nous y jouons.
 ## Un monde *dataset*
@@ -83,7 +85,7 @@ Ce faisant, les prototypes diégétiques donnent forme à des logiques a priori 
 C’est peut-être à cela que nous invite Jacques Ellul lorsqu’il mentionne qu’on "[ne peut pas luter contre l’efficacité avec efficacité. On doit utiliser des choses qui ne sont pas efficaces, qui prennent leur temps](../documentation/observations/luter%20contre%20la%20technique.md)" (Devaux et cie., 2025). Il s’oppose ainsi à l’idée de combattre la démesure technique par une surenchère technologique - là où "[l’augmentation devient destruction et le remède poison](../documentation/observations/la%20mémoire%20artificielle%20rend%20l’oubli%20habituel.md)" (Alombert, 2023, p.43). 
 Le design fiction, au contraire, propose de réintroduire le symbolique, le récit et la réflexivité comme antidotes à "[l’automatisation de la pensée](../documentation/observations/automatisation%20de%20la%20pensée.md)" (ibid, p.44).
 
-On peut y lire une issue - fragile, mais possible. Si tout est délégué aux machines, il restera peut-être à l’humain ce qui ne peut être automatisé : la question du sens. Qu’est-ce qu’être vivant ? Qu’est-ce qu’aimer ? Qu’est-ce qu’éprouver ? Qu’est-ce qu’être humain ? L’automatisation totale pourrait, paradoxalement, nous ramener à ces interrogations fondamentales et forcer un retour à l’émotion, au doute, à la réflexivité… pour autant que nous soyons encore capables de penser.
+On peut y lire une issue - fragile, mais possible. Si tout est délégué aux machines, il restera peut-être à l’humain ce qui ne peut être automatisé : l'idée de trouver "[un sens authentiquement personnel à la vie](../documentation/observations/un%20sens%20authentiquement%20personnel%20à%20la%20vie.md)" (Turner, 2006, p.80). Qu’est-ce qu’être vivant ? Qu’est-ce qu’aimer ? Qu’est-ce qu’éprouver ? Qu’est-ce qu’être humain ? L’automatisation totale pourrait, paradoxalement, nous ramener à ces interrogations fondamentales et forcer un retour à l’émotion, au doute, à la réflexivité… pour autant que nous soyons encore capables de penser.
 
 C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le poème de Richard Brautigan :
 
@@ -103,13 +105,11 @@ Les mondes synthétiques semblent donc accomplir l’ancien rêve cybernétique 
 
 C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles, cette zone d’incertitude que nous tentons sans cesse de réduire grâce à des dispositifs dont nous attendons qu’ils nous guident et nous disent *quoi faire* - à l'image de la [Machine d'Anticythère](../documentation/references/machine%20d'anticythère.md) (Wikipedia, 2025). Cette même zone d'incertitude qui - paradoxalement - pourrait nous ramener à des questions de fond: *au final, qu'est-ce qu'on fout là* ?
 
-(==LIEN AVEC AMBITION CYBER CULTURE SE RAPROCHER DE QUI ONE EST==)
-
-# The Card 
+# La Carte 
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
 
-*Pensée pour être imprimée avec un Robot Axidraw.*
+
 ## Intentions
 
 - Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction.
@@ -124,6 +124,7 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
 - Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
 - Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
+- *Pensée pour être imprimée avec un Robot Axidraw.*
 # Présentation
 
 ...
