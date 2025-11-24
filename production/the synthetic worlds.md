@@ -97,10 +97,13 @@ C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le 
 Les mondes synthétiques semblent ainsi réaliser le "vieux" rêve cybernétique : celui d’une réalité entièrement convertie en information. Mais il reste à savoir si, dans ce paysage quadrillé par le calcul, nous pourrons encore entendre autre chose que le silence des machines - un geste, un doute, un soupir. 
 
 C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles.(==RE TRAVAILLER==) 
+
+Finalement, les machines et l'IA nous pousse à nous poser des question physolophiques, telles que qu'est-ce que'être humain, qu'est ce que l'intelligence. Un moyen de se rapprocher de l'humanité ?
 # The Card 
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
 
+*Pensée pour être imprimée avec un Robot Axidraw.*
 ## Intentions
 
 - Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction.
@@ -115,9 +118,6 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
 - Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
 - Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
-## Processus
-
-- Sera imprimée avec un Robot Axidraw
 # Présentation [en]
 
 ...
@@ -133,3 +133,5 @@ Dans le jeu traditionnel du Tarot, la carte du Monde symbolise l’achèvement d
 Suzane Treister, au travers de son projet HEXGEN 2.0, qui "[explore simultanément diverses réponses philosophiques, littéraires et politiques aux progrès technologiques](../documentation/references/hexgen%202.0.md)" (Treister, 2009-2011).
 
 Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
+
+Des éléments liés au cours du 24.11.2025 (Open discussion par exemple)
