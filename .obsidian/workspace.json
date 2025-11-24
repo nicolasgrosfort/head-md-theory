@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "production/the synthetic worlds.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "the synthetic worlds"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "production/the synthetic worlds.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for the synthetic worlds"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -183,8 +183,9 @@
   },
   "active": "b93dc22352744e56",
   "lastOpenFiles": [
-    "documentation/references/catalog for the post-human.md",
     "production/the synthetic worlds.md",
+    "README.md",
+    "documentation/references/catalog for the post-human.md",
     "documentation/observations/le succès dépend de notre augmentation.md",
     "production/assets/print-1.gif",
     "production/assets/print-2.gif",
@@ -195,7 +196,6 @@
     "production/assets/card-world-tarot.png",
     "production/assets/the synthetic worlds light.png",
     "production/assets/card-world-treister.png",
-    "README.md",
     "production/README.md",
     "production/assets/the synthetic worlds dark.png",
     "documentation/observations/un sens authentiquement personnel à la vie.md",
