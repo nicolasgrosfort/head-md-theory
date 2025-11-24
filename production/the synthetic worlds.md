@@ -107,31 +107,126 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 
 # La Carte 
 
-![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
+![The Synthetic Worlds](assets/the%20synthetic%20worlds%20light.png)![The Synthetic Worlds](assets/the%20synthetic%20worlds%20dark.png)
+
+### Version imprimable
+
+→ [The Synthetic World [SVG]](assets/the%20synthetic%20worlds%20print.svg)
 ## Intentions
 
-### Visuel
+### Conceptuelles
 
-- Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction.
 - Montre comment nous remodelons progressivement le monde pour l’adapter aux attentes des machines, afin qu’il devienne entièrement découpable, mesurable, indexable.
+- Met en scène la logique extractiviste de l’IA, qui puise dans les productions humaines plutôt qu’elle ne "génère" véritablement, et rappelle les coûts invisibles de cette extraction → le monde disparait, se dissout. 
 - Recompose la planète à partir de “Hello, World!”, ces premiers mots prononcés par un humain face à une machine : une manière de signifier que le monde lui-même devient un message adressé aux systèmes computationnels.
 - Représente la fin ou l’aboutissement d’un cycle : celui de la numérisation du monde.
-- Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle.
+### Visuelles
+
+- Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle (représentant le moi et le toi conscient)
 - La grille évoque l’uniformisation des formes de vie et de pensée sous l’effet du calcul, la rationalisation des savoir-faire, et la mise à plat des singularités culturelles.
-- Le choix typographique renvoie au [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md), symbole d’un imaginaire technologique à la fois utopique et pré-internet.
-- L’usage de l’ASCII renvoie à l’histoire des mémoires artificielles, et plus largement à la traduction du monde en signes manipulables par les ordinateurs.
-- L’ASCII évoque aussi la pauvreté expressive des systèmes techniques, - réduisant la complexité du monde à des symboles élémentaires (ici "hello world")
-- La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
-- Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
-- Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
+- Le choix typographique renvoie au [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md), symbole d’un imaginaire technologique à la fois utopique et pré-internet-
+- La terre est réalisée avec une police monospace, rappelant la standardisation et la machine à écrire.
+-  L’usage de l’ASCII renvoie à l’histoire des mémoires artificielles, et plus largement à la traduction du monde en signes manipulables par les ordinateurs.
+-  L’ASCII évoque aussi le fait que systèmes techniques réduisent la complexité du monde à des symboles élémentaires (ici "hello world").
+- La composition "monde + grille" rappelle l'univers cybernétiques des années 1960-70, notamment le Pepsi Pavilion ou l'identité visuelle du Whole Earth Catalog.
+-  Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
+- La composition  fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
+
 ### Processus
 
 - La carte du monde est imprimée par un robot AxiDraw : la machine façonne la carte, façonne le monde, et fige  - en la standardisant - sa représentation.
 - Clin d’œil géopolitique à un possible glissement de suprématie technologique : le dessin est réalisé avec un stylo chinois.
 # Présentation
 
-...
+## La carte "Le Monde"
+
+### HEXGEN2.0
+
+- Première carte tirée, lors du premier jour de cours.
+- Carte complexe car donne peut d''information visuelle, contrairement aux autres
+- Occasion pour moi d'avoir plus de liberté dans le choix des références 
+![](assets/card-world-treister.png)
 
 
+### Tarot traditionnel
 
+- Symbolise l'achèvement d'un cycle et le commencement d'un autre
+- Passage d'un état de convergence à un état de divergence
+- La femme sur la carte avance, mais regarde en arrière, dans le passé
 
+![](assets/card-world-tarot.png)
+## Moodboard
+
+### Visuel
+
+- Imaginaire cybernétique et techno-utopie
+- Esthétique néo-futuriste
+- Grilles, trames, wireframe : transparence des systèmes
+
+![](assets/moodboard-visuel.png)
+## Résumé du texte
+
+J'ai mis le monde au pluriel car il existe en tant que représentation et que ces représentation sont plurielle et réparties en plusieurs couches. 
+
+Je reprend le concept de couche pour parler des différents niveau de lecture du monde (symbolique, technique, politique), que je reprend à la notion de stack en informatique (pile technologie qui compose un service ou produit numérique)
+
+Mon texte parle de 4 mondes différents : Dataset, Vernis, Délégué et Résistant.
+
+### Monde *Dataset*
+
+- Le monde (et la nature) se transforme de sorte à pouvoir être lu par les machines.
+- Conséquence : le monde est peut-être moins adapté aux humains
+- Exemple de la région d'Épire
+
+### Monde *Vernis*
+
+- On applique une couche de vernis anthropomorphique à la machine au nom de l'accessibilité, mais peut-être d'abord pour favoriser son adoption
+- Conséquence : des difficulté à poser un regard critique sur les technologies et à comprendre leur fonctionnement réel
+- Exemple du Vibe Coding → anglais comme nouveau langage de programmation
+
+### Monde Délégué
+
+- Basée sur les idées de Gilbert Simondon, je questionne si on ne cherche pas au fond à déléguer notre propre mortalité et toute l'incertitude que sa suppose à la machine
+- Conséquence : on s'écarte peut-être de "la vie", tout en perdant des facultés
+- Exemple : Catalogue For The Post Human qui propose des objets pour s'améliorer et être toujours compétitif sur le plan professionnel (la pilule qui permet d'être dans un bon état cognitif)
+
+### *Monde* Résistant
+
+- J'interroge les moyens de lutte, notamment en me basant sur les idées de Jacques Ellul qui fait l'éloge de la non-puissance (abstention technique).
+- Je questionne aussi notre liberté de choix de s'abstenir, ou de décider de s'abstenir, sachant qu'on a peut-être pas toutes les cartes en main. 
+- J'envisage ensuite le design fiction comme un outil de mise en débat et de sensibilisation.
+
+### Conclusion
+
+Je termine en revenant sur l'idée que nous vivons peut-être aujourd'hui le "vieux" rêve de la cybernétique d'être capable de controller le vivant. Et me demande si finalement, tout ça ne nous ramènera à nous demander : au fond, qu'est-ce qu'on fou là ?
+
+## Présentation de la carte
+
+![The Synthetic Worlds](assets/the%20synthetic%20worlds%20light.png)
+
+La carte représente une terre en phase de *numérisation*. La représentation *vivante* qu'on a d'elle est en train de disparaître et de se faire remplacer par une représentation ASCII (norme informatique d'encodage de caractères). Les caractères utilisées sont "Hello World!", les premier mots que fait dire un humain à une machine lorsqu'il apprend à la programmer. 
+
+### Concepts
+
+- Le monde s'adapte aux machines (devient lisible)
+- Le monde s'épuise (logique extractivistes de l'IA, environnementale, symbolique et culturelle)
+- Le monde est en fin et/ou en début de cycle : sa numérisation
+
+### Visuels
+
+- Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle 
+- La grille évoque l’uniformisation, la standardisation du monde
+- La typographie de titre est celle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
+- La terre est faire d'une mono avec empattement (standardisation et machine à écrire)
+- ASCII évoque la traduction (numérisation) du monde en langage compréhensible par les machines
+- La composition rappelle l'univers cybernétique, notamment Pepsi Pavillon ou l'identité visuelle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
+- La composition fait echo à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md)
+
+### Processus
+
+- Carte imprimée par un robot (Axidraw). Fait echo au fait que la machine faconne notre représentation du monde (la standardise)
+- Le stylo utilisé est allemand, mais l'intention est d'utiliser un stylo chinois pour parler de la course à la suprématie technologique dans le monde de l'IA entre la Chine et les États-Unis (le robot est américain, le style chinois).
+
+![](assets/print-1.jpeg)
+
+![](assets/print-2.jpeg)![](assets/print-1.gif)![](assets/print-2.gif)

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1c57d14a2de8b1",
+        "id": "14cbe4a3bd492d34",
         "type": "tabs",
         "children": [
           {
-            "id": "98a1f3962270311a",
+            "id": "b93dc22352744e56",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +181,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "98a1f3962270311a",
+  "active": "b93dc22352744e56",
   "lastOpenFiles": [
+    "documentation/references/catalog for the post-human.md",
+    "production/the synthetic worlds.md",
+    "documentation/observations/le succès dépend de notre augmentation.md",
+    "production/assets/print-1.gif",
+    "production/assets/print-2.gif",
+    "production/assets/print-1.jpeg",
+    "production/assets/print-2.jpeg",
+    "production/assets/moodboard-visuel.png",
+    "production/assets/moodboard-visuel.png",
+    "production/assets/card-world-tarot.png",
+    "production/assets/the synthetic worlds light.png",
+    "production/assets/card-world-treister.png",
+    "README.md",
+    "production/README.md",
+    "production/assets/the synthetic worlds dark.png",
     "documentation/observations/un sens authentiquement personnel à la vie.md",
     "documentation/references/aux sources de l'utopie numérique.md",
-    "production/the synthetic worlds.md",
     "documentation/references/the corporation and the counterculture.md",
     "documentation/observations/cybernétique et contrôle.md",
     "documentation/observations/la conscience comme sas entre deux chaos.md",
@@ -202,9 +216,7 @@
     "documentation/observations/pharmakon.md",
     "documentation/references/première image de la terre depuis l'espace.md",
     "documentation/references/whole earth catalog.md",
-    "documentation/references/assets/whole earth catalog.png",
     "documentation/references/assets",
-    "documentation/references/assets/première image de la terre depuis l'espace.png",
     "documentation/observations/assets",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/server.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/preview.js",
@@ -217,16 +229,7 @@
     "documentation/code/2025-11-24-super-collider/node_modules/@esbuild/darwin-arm64/README.md",
     "documentation/code/2025-11-24-super-collider/node_modules/@types/estree/README.md",
     "documentation/code/2025-11-24-super-collider/node_modules/@rollup/rollup-darwin-arm64/README.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/typescript/SECURITY.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/typescript/README.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/README.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/LICENSE.md",
-    "documentation/code/2025-11-24-super-collider/src/typescript.svg",
-    "documentation/code/2025-11-24-super-collider/public/vite.svg",
-    "documentation/code/super-collider/src/typescript.svg",
-    "documentation/code/super-collider/public/vite.svg",
     "production/the synthetic worlds.canvas",
-    "production/assets/the synthetic worlds.png",
     "production/Untitled.canvas",
     "documentation/observations/Untitled.canvas"
   ]
