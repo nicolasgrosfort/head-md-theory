@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Le monde que nous habitons n'a peut-être jamais existé en tant que "donnée" brute, mais toujours et plutôt en tant que construction (==Symbole, représentation==). Ils est fabriqués par des techniques, des récits, des représentations qui filtrent et reconfigurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), somatiques, symboliques et techniques, qui participe à la fabrication - et parfois peut-être à la destruction - de "[l'habitabilité du monde](../documentation/observations/habitabilité%20du%20monde.md)" (Gauthier & cie, 2014). (==LIEN AVEC LE COOURS DE ANDRE==), avec le fait que la machine fixe dans le temps une réalité organique qui évolue... quelque chose comme ça ? 
+Le monde que nous habitons n'a peut-être jamais existé en tant que réalité objective et unique, mais toujours et plutôt en tant que construction, faite de symboles et de représentations qui évoluent en permanence. Ces dernières sont elles-même fabriquées par des techniques, des récits et des archétypes, qui filtrent et (re)configurent nos perceptions. Comme le rappelle Stéphane Vial, "[la technique conditionne la manière dont le réel ou l’être nous apparaît](../documentation/observations/le%20monde%20est%20une%20perception%20technique.md)" (Vial, 2017, p76) : elle agit comme un appareillage perceptif qui compose notre rapport au monde. Ce réel est donc un ensemble "[multiples (de) couches interconnectées](../documentation/observations/les%20multiples%20couches%20interconnectées%20dont%20dépend%20le%20calcul%20à%20l'échelle%20planétaire.md)" (Wikipedia, 2025), somatiques, symboliques et techniques, qui participe à la fabrication - et parfois peut-être à la destruction - de "[l'ontophanie du monde](../documentation/observations/ontophanie%20du%20monde.md)" (Vial, 2017, p.134), et par la même occasion, à ses "[ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)" (Alombert, 2025, p.29)
 
-Ces multiples couches produise ce que je m'essaie à nommer "les mondes synthétiques". Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation progressives de nos facultés d'être-au-monde. Monde *dataset*, monde *vernis*, monde *délégué* et monde *résistant* : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel et reconfigure silencieusement la place - et surtout le role - que nous y tenons.  (avec des questionnement qui ne datent peut-être pas d'aujourd'hui, lien cybernétique ?)
+Ces multiples couches produise ce que je m'essaie à nommer *les mondes synthétiques*. Des mondes modelés par la logique du calcul, par la prédiction, par l’anthropomorphisation des machines et par la délégation progressives de nos facultés d'être-au-monde. Monde *dataset*, monde *vernis*, monde *délégué* et monde *résistant* : ces mondes coexistent, se superposent, parfois s’affrontent. Ensemble, ils dessinent une mutation profonde de notre rapport au réel et reconfigure silencieusement la place - et surtout le role - que nous y tenons.  
 ## Un monde *dataset*
 
 L'émergence de la cybernétique semble être l’un des glissements majeurs du XXᵉ siècle. En  étudiant "[la manière dont les systèmes de communication pouvaient servir à des fins de contrôle](../documentation/observations/cybernétique%20et%20contrôle.md)" (Turner, 2014), Norbert Wiener définit la cybernétique comme "[un champ dédié à « l'étude des messages en tant que moyens de contrôle sur les machines et la société », les machines incluant vraisemblablement, par analogie tout au moins, les organismes biologiques](../documentation/observations/définition%20de%20la%20cybernétique.md)" (Turner, 2006, p.62). 
@@ -94,11 +94,10 @@ C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le 
 
 (Turner, 2006, p.94)
 
-Les mondes synthétiques semblent ainsi réaliser le "vieux" rêve cybernétique : celui d’une réalité entièrement convertie en information. Mais il reste à savoir si, dans ce paysage quadrillé par le calcul, nous pourrons encore entendre autre chose que le silence des machines - un geste, un doute, un soupir. 
+Les mondes synthétiques semblent accomplir l’ancien rêve cybernétique : celui d’une réalité entièrement traduite en information - calculable, contrôlable, prédictive. Mais dans ce paysage quadrillé par le calcul, saurons-nous encore distinguer l’humain de la machine ?
 
-C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles.(==RE TRAVAILLER==) 
+C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles, cette zone d’incertitude que nous tentons sans cesse de réduire grâce à des dispositifs dont nous attendons qu’ils nous guident et nous disent *quoi faire* - à l'image de la [Machine d'Anticythère](../documentation/references/machine%20d'anticythère.md) (Wikipedia, 2025). Cette même zone d'incertitude qui - paradoxalement - pourrait nous ramener à des questions de fond: au final, qu'est-ce qu'être humain ?
 
-Finalement, les machines et l'IA nous pousse à nous poser des question physolophiques, telles que qu'est-ce que'être humain, qu'est ce que l'intelligence. Un moyen de se rapprocher de l'humanité ?
 # The Card 
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds.png)
@@ -123,7 +122,7 @@ Finalement, les machines et l'IA nous pousse à nous poser des question physolop
 ...
 # À placer dans mon texte ? 
 
-[exploitation des ressources symboliques et culturelles](../documentation/observations/exploitation%20des%20ressources%20symboliques%20et%20culturelles.md)
+
 
 Comme l’écrit De Smet, "[la conscience est une construction mentale que le cerveau construit comme sas entre deux chaos : celui de nos propre neurones d'une part et celui du monde d'autre part](../documentation/observations/la%20conscience%20comme%20sas%20entre%20deux%20chaos.md)" (De Smet, 2017). Notre perception du monde serait alors produite par un dispositif artificiel - un appareillage perceptif-somatique-symbolique aussi appelé « je ». 
 
@@ -135,3 +134,8 @@ Suzane Treister, au travers de son projet HEXGEN 2.0, qui "[explore simultanéme
 Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
 
 Des éléments liés au cours du 24.11.2025 (Open discussion par exemple)
+
+
+(avec des questionnement qui ne datent peut-être pas d'aujourd'hui, lien cybernétique ?)
+
+(==LIEN AVEC LE COOURS DE ANDRE==), avec le fait que la machine fixe dans le temps une réalité organique qui évolue... quelque chose comme ça ? 
