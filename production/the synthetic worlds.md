@@ -38,7 +38,7 @@ Mais derrière cette apparente simplicité - transformer des intentions en code 
 
 En retour, cette pratique produit une nouvelle forme d’opacité. Le confort, tant dans les usages que dans les processus de conception, devient une véritable anesthésie critique. John Maeda décrit ce phénomène comme une *illusion de transparence*, où la simplicité de surface masque une complexité systémique inatteignable: "[les pixels d’un écran ne nous apprennent rien sur la machine computationnelle à laquelle ils sont connectés.](../documentation/observations/illusion%20de%20transparence.md)" (Maeda, 2025, p.12). 
 
-Ce décalage entre la simplicité de l’expérience et la densité technique du système entraîne une perte de maîtrise cognitive : nous n’avons plus les outils pour penser les machines qui nous gouvernent. Comme le rappelle Alombert, "[les normes techniques (…) sont dissimulées derrière des interfaces ergonomiques, qui permettent un usage immédiat et intuitif, mais rarement réflexif](../documentation/observations/usage%20ergonomique%20et%20non%20réflexif.md)" (2023)
+Ce décalage entre la simplicité de l’expérience et la densité technique du système entraîne une perte de maîtrise cognitive : nous n’avons plus les outils pour penser les machines qui nous gouvernent. Comme le rappelle Alombert, "[les normes techniques (…) sont dissimulées derrière des interfaces ergonomiques, qui permettent un usage immédiat et intuitif, mais rarement réflexif](../documentation/observations/usage%20ergonomique%20et%20non%20réflexif.md)" (2023, p.46-47).
 
 Cette transparence trompeuse maintient l’illusion d’un monde sensible, alors même que l’humain devient de plus en plus secondaire dans sa propre architecture technique. Non seulement nous perdons l’accès à ce qui s’y joue, mais nous déléguons également à la machine, peu à peu, nos propres facultés - au risque, peut-être, de les voir s’atrophier.
 ## Un monde *délégué*
@@ -121,25 +121,12 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - La composition “monde + grille” rappelle les fantasmagories cybernétiques des années 1960-70, notamment les environnements immersifs du Pepsi Pavilion ou les visions “globales” de Fuller et du Whole Earth Catalog.
 - Le vide autour du globe suggère la disparition du vivant dans un espace totalement calculé.
 - Fait echos à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md), aussi utilisée dans le [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md).
-# Présentation [en]
+# Présentation
 
 ...
 # À placer dans mon texte ? 
-
-
+Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
 
 Comme l’écrit De Smet, "[la conscience est une construction mentale que le cerveau construit comme sas entre deux chaos : celui de nos propre neurones d'une part et celui du monde d'autre part](../documentation/observations/la%20conscience%20comme%20sas%20entre%20deux%20chaos.md)" (De Smet, 2017). Notre perception du monde serait alors produite par un dispositif artificiel - un appareillage perceptif-somatique-symbolique aussi appelé « je ». 
 
-Qu'il s'agisse de techno-mysticisme, notamment au travers d'expérience interactive qui "[ressemble quelque peu à une expérience psychédélique](../documentation/observations/expérience%20interactive%20psychédélique.md)" (Turner, 2014) , d'organisme cybernétiques, web, écriture, ...
 
-Dans le jeu traditionnel du Tarot, la carte du Monde symbolise l’achèvement d’un cycle, et le commencement d'un autre; le passage d'un état de convergence à un état de divergence. 
-Suzane Treister, au travers de son projet HEXGEN 2.0, qui "[explore simultanément diverses réponses philosophiques, littéraires et politiques aux progrès technologiques](../documentation/references/hexgen%202.0.md)" (Treister, 2009-2011).
-
-Peut-être par peur du chaos qu'il représente, ne sommes-nous pas progressivement en train de déléguer notre capacité à le comprendre, l'interpréter et ainsi le fabriquer à une série d'artifice technique qui - depuis l'invention de l'écriture, semble augmenter notre potentialité de délégation à des artifices auxiliaire
-
-Des éléments liés au cours du 24.11.2025 (Open discussion par exemple)
-
-
-(avec des questionnement qui ne datent peut-être pas d'aujourd'hui, lien cybernétique ?)
-
-(==LIEN AVEC LE COOURS DE ANDRE==), avec le fait que la machine fixe dans le temps une réalité organique qui évolue... quelque chose comme ça ? 
