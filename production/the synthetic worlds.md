@@ -140,7 +140,7 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 
 ## La carte "Le Monde"
 
-### HEXGEN2.0
+### HEXEN2.0
 
 - Première carte tirée, lors du premier jour de cours
 - Carte complexe car donne peut d''information visuelle, contrairement aux autres

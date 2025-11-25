@@ -1,30 +1,22 @@
 {
   "collapse-filter": false,
   "search": "-path:node_modules -file:README -file:.canvas",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#extractivisme  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084190
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "textFadeMultiplier": 0.1,
+  "nodeSizeMultiplier": 1.9952666134327,
+  "lineSizeMultiplier": 1.00339810132198,
+  "collapse-forces": false,
   "centerStrength": 0.4976806640625,
-  "repelStrength": 10.2156575520833,
+  "repelStrength": 7.14754680152604,
   "linkStrength": 0.533610026041667,
   "linkDistance": 267,
-  "scale": 0.907038044412958,
-  "close": true
+  "scale": 1.9733201003816287,
+  "close": false
 }
