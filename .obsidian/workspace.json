@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14cbe4a3bd492d34",
+        "id": "b5d9b3f7c22adce1",
         "type": "tabs",
         "children": [
           {
-            "id": "b93dc22352744e56",
+            "id": "f3bceff50be9da51",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5024719238281
+    "width": 278.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "9c0c5c3a5c7fa75a",
@@ -182,12 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "b93dc22352744e56",
+  "active": "f3bceff50be9da51",
   "lastOpenFiles": [
+    "production/the synthetic worlds.md",
+    "production/assets/card-world-tarot.png",
+    "production/assets/the synthetic worlds dark.png",
+    "production/assets/the synthetic worlds light.png",
+    "production/the synthetic worlds - en.md",
     "documentation/references/catalog for the post-human.md",
     "documentation/references/assets/catalog for the post-human.pdf",
     "documentation/references/assets/première image de la terre depuis l'espace.png",
-    "production/the synthetic worlds.md",
     "README.md",
     "documentation/observations/le succès dépend de notre augmentation.md",
     "production/assets/print-1.gif",
@@ -196,9 +201,6 @@
     "production/assets/print-2.jpeg",
     "production/assets/moodboard-visuel.png",
     "production/assets/moodboard-visuel.png",
-    "production/assets/card-world-tarot.png",
-    "production/assets/the synthetic worlds light.png",
-    "production/assets/card-world-treister.png",
     "production/README.md",
     "documentation/observations/un sens authentiquement personnel à la vie.md",
     "documentation/references/aux sources de l'utopie numérique.md",
@@ -228,7 +230,6 @@
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/logger.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/lib.js",
     "documentation/code/2025-11-24-super-collider/node_modules/@esbuild/darwin-arm64/README.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/@types/estree/README.md",
     "production/the synthetic worlds.canvas",
     "production/Untitled.canvas",
     "documentation/observations/Untitled.canvas"
