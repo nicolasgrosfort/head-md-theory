@@ -140,11 +140,13 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 
 ## La carte "Le Monde"
 
+Le point de départ de ma recherche. 
+
 ### HEXEN2.0
 
 - Première carte tirée, lors du premier jour de cours
 - Carte complexe car donne peut d''information visuelle, contrairement aux autres
-- Opportunité de prendre plus de liberté dans mes choix des références
+- Opportunité de prendre plus de liberté dans mes choix des références (liées à ma thèse de master)
 ![](assets/card-world-treister.png)
 
 
@@ -154,17 +156,6 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - Passage d'un état de convergence à un état de divergence
 - La femme sur la carte avance, mais regarde en arrière, dans le passé
 ![](assets/card-world-tarot.png)
-## Moodboard
-
-Quelques une de mes inspirations visuelles.
-
-### Visuel
-
-- Imaginaire cybernétique et techno-utopie (y compris Pavillon Pepsi)
-- Esthétique néo-futuriste
-- Grilles, trames, wireframe : transparence des systèmes
-
-![](assets/moodboard-visuel.png)
 ## Résumé du texte
 
 Le monde est au pluriel car il existe en tant que représentation et que ces représentations sont plurielles. Elles sont plusieurs niveaux de lecture (symbolique, technique, politique), que je nomme couches.
@@ -177,18 +168,19 @@ Mon texte parle de 4 mondes différents : *Dataset*, *Vernis*, *Délégué* et *
 
 - Le monde (et la nature) se transforme de sorte à pouvoir être lu par les machines.  
 - Conséquence : le monde est peut-être moins adapté aux humains.  
-- Exemple de la région d'Épire.
+- Exemple de la région d'Épire (balisée pour l'analyse par drones), les caméras dans les villes, les datacenter, ...)
 
 ### Monde *Vernis*
 
 - Une couche de vernis anthropomorphique est appliquée à la machine, au nom de l'accessibilité, mais peut-être d'abord pour favoriser son adoption.  
 - Conséquence : des difficultés à poser un regard critique sur les technologies et à comprendre leur fonctionnement et implications réelles.  
-- Exemple du Vibe Coding → l'anglais comme nouveau langage de programmation (enjeux de sécurité)
+- Exemple du Vibe Coding → l'anglais comme nouveau langage de programmation (enjeux de sécurité, on perd le contrôle)
+
 ### Monde Délégué
 
 - Basée sur les idées de Gilbert Simondon, je questionne si l'on ne cherche pas au fond à déléguer notre propre mortalité et toute l'incertitude qu'elle suppose à la machine.  
 - Conséquence : on s'écarte peut-être de "la vie", tout en perdant nos facultés d'être au monde.  
-- Exemple : [*Catalogue For The Post Human*](../documentation/references/assets/catalog%20for%20the%20post-human.pdf), qui propose des objets pour s'améliorer et être toujours compétitif sur le plan professionnel (la pilule qui permet d'être dans un *bon* état cognitif).
+- Exemple : [*Catalogue For The Post Human*](../documentation/references/assets/catalog%20for%20the%20post-human.pdf), qui propose des objets pour s'améliorer et être toujours compétitif sur le plan professionnel (la pilule qui permet d'être dans un *bon* état cognitif, ou l'ExoCat).
 
 ### *Monde* Résistant
 
@@ -199,6 +191,18 @@ Mon texte parle de 4 mondes différents : *Dataset*, *Vernis*, *Délégué* et *
 ### Conclusion
 
 Je conclue en revenant sur l'idée que nous vivons peut-être aujourd'hui le "vieux" rêve de la cybernétique d'être capable de contrôler le vivant. Et je me demande si finalement, tout ça ne nous ramènera pas à nous interroger : au fond, qu'est-ce qu'on fout là ?
+
+## Moodboard
+
+Quelques une de mes inspirations visuelles.
+
+### Visuel
+
+- Imaginaire cybernétique et techno-utopie (y compris Pavillon Pepsi)
+- Esthétique néo-futuriste
+- Grilles, trames, wireframe : transparence des systèmes
+
+![](assets/moodboard-visuel.png)
 
 ## Présentation de la carte
 
@@ -216,7 +220,7 @@ La carte représente une terre en phase de *numérisation*. La représentation *
 
 - Les doubles barres "//" inscrivent "synthetic" comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle 
 - La grille évoque l’uniformisation, la standardisation du monde
-- La typographie de titre est celle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
+- La typographie de titre est celle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md) (Windsor)
 - La terre est faire d'une fonte mono avec empattement (standardisation et machine à écrire)
 - ASCII évoque la traduction (numérisation) du monde en langage compréhensible par les machines
 - La composition rappelle l'univers cybernétique, notamment Pepsi Pavillon ou l'identité visuelle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
