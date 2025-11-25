@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "production/the synthetic worlds.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "the synthetic worlds"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "production/the synthetic worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for the synthetic worlds"
             }
           },
           {
@@ -168,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,9 +184,11 @@
   },
   "active": "b93dc22352744e56",
   "lastOpenFiles": [
+    "documentation/references/catalog for the post-human.md",
+    "documentation/references/assets/catalog for the post-human.pdf",
+    "documentation/references/assets/première image de la terre depuis l'espace.png",
     "production/the synthetic worlds.md",
     "README.md",
-    "documentation/references/catalog for the post-human.md",
     "documentation/observations/le succès dépend de notre augmentation.md",
     "production/assets/print-1.gif",
     "production/assets/print-2.gif",
@@ -197,7 +200,6 @@
     "production/assets/the synthetic worlds light.png",
     "production/assets/card-world-treister.png",
     "production/README.md",
-    "production/assets/the synthetic worlds dark.png",
     "documentation/observations/un sens authentiquement personnel à la vie.md",
     "documentation/references/aux sources de l'utopie numérique.md",
     "documentation/references/the corporation and the counterculture.md",
@@ -225,10 +227,8 @@
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/moduleRunnerTransport.d.ts",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/logger.js",
     "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/lib.js",
-    "documentation/code/2025-11-24-super-collider/node_modules/vite/dist/node/chunks/dist.js",
     "documentation/code/2025-11-24-super-collider/node_modules/@esbuild/darwin-arm64/README.md",
     "documentation/code/2025-11-24-super-collider/node_modules/@types/estree/README.md",
-    "documentation/code/2025-11-24-super-collider/node_modules/@rollup/rollup-darwin-arm64/README.md",
     "production/the synthetic worlds.canvas",
     "production/Untitled.canvas",
     "documentation/observations/Untitled.canvas"

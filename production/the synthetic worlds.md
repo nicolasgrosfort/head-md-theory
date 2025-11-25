@@ -142,9 +142,9 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 
 ### HEXGEN2.0
 
-- Première carte tirée, lors du premier jour de cours.
+- Première carte tirée, lors du premier jour de cours
 - Carte complexe car donne peut d''information visuelle, contrairement aux autres
-- Occasion pour moi d'avoir plus de liberté dans le choix des références 
+- Opportunité de prendre plus de liberté dans mes choix des références
 ![](assets/card-world-treister.png)
 
 
@@ -153,71 +153,71 @@ C’est peut-être là que se joue notre avenir : dans la part de vivant qui éc
 - Symbolise l'achèvement d'un cycle et le commencement d'un autre
 - Passage d'un état de convergence à un état de divergence
 - La femme sur la carte avance, mais regarde en arrière, dans le passé
-
 ![](assets/card-world-tarot.png)
 ## Moodboard
 
+Quelques une de mes inspirations visuelles.
+
 ### Visuel
 
-- Imaginaire cybernétique et techno-utopie
+- Imaginaire cybernétique et techno-utopie (y compris Pavillon Pepsi)
 - Esthétique néo-futuriste
 - Grilles, trames, wireframe : transparence des systèmes
 
 ![](assets/moodboard-visuel.png)
 ## Résumé du texte
 
-J'ai mis le monde au pluriel car il existe en tant que représentation et que ces représentation sont plurielle et réparties en plusieurs couches. 
+Le monde est au pluriel car il existe en tant que représentation et que ces représentations sont plurielles. Elles sont plusieurs niveaux de lecture (symbolique, technique, politique), que je nomme couches.
 
-Je reprend le concept de couche pour parler des différents niveau de lecture du monde (symbolique, technique, politique), que je reprend à la notion de stack en informatique (pile technologie qui compose un service ou produit numérique)
+Je reprends le concept de couches à la notion de "stack" en informatique (pile technologique qui compose un service ou produit numérique).
 
-Mon texte parle de 4 mondes différents : Dataset, Vernis, Délégué et Résistant.
+Mon texte parle de 4 mondes différents : *Dataset*, *Vernis*, *Délégué* et *Résistant*.
 
 ### Monde *Dataset*
 
-- Le monde (et la nature) se transforme de sorte à pouvoir être lu par les machines.
-- Conséquence : le monde est peut-être moins adapté aux humains
-- Exemple de la région d'Épire
+- Le monde (et la nature) se transforme de sorte à pouvoir être lu par les machines.  
+- Conséquence : le monde est peut-être moins adapté aux humains.  
+- Exemple de la région d'Épire.
 
 ### Monde *Vernis*
 
-- On applique une couche de vernis anthropomorphique à la machine au nom de l'accessibilité, mais peut-être d'abord pour favoriser son adoption
-- Conséquence : des difficulté à poser un regard critique sur les technologies et à comprendre leur fonctionnement réel
-- Exemple du Vibe Coding → anglais comme nouveau langage de programmation
-
+- Une couche de vernis anthropomorphique est appliquée à la machine, au nom de l'accessibilité, mais peut-être d'abord pour favoriser son adoption.  
+- Conséquence : des difficultés à poser un regard critique sur les technologies et à comprendre leur fonctionnement et implications réelles.  
+- Exemple du Vibe Coding → l'anglais comme nouveau langage de programmation (enjeux de sécurité)
 ### Monde Délégué
 
-- Basée sur les idées de Gilbert Simondon, je questionne si on ne cherche pas au fond à déléguer notre propre mortalité et toute l'incertitude que sa suppose à la machine
-- Conséquence : on s'écarte peut-être de "la vie", tout en perdant des facultés
-- Exemple : Catalogue For The Post Human qui propose des objets pour s'améliorer et être toujours compétitif sur le plan professionnel (la pilule qui permet d'être dans un bon état cognitif)
+- Basée sur les idées de Gilbert Simondon, je questionne si l'on ne cherche pas au fond à déléguer notre propre mortalité et toute l'incertitude qu'elle suppose à la machine.  
+- Conséquence : on s'écarte peut-être de "la vie", tout en perdant nos facultés d'être au monde.  
+- Exemple : [*Catalogue For The Post Human*](../documentation/references/assets/catalog%20for%20the%20post-human.pdf), qui propose des objets pour s'améliorer et être toujours compétitif sur le plan professionnel (la pilule qui permet d'être dans un *bon* état cognitif).
 
 ### *Monde* Résistant
 
-- J'interroge les moyens de lutte, notamment en me basant sur les idées de Jacques Ellul qui fait l'éloge de la non-puissance (abstention technique).
-- Je questionne aussi notre liberté de choix de s'abstenir, ou de décider de s'abstenir, sachant qu'on a peut-être pas toutes les cartes en main. 
-- J'envisage ensuite le design fiction comme un outil de mise en débat et de sensibilisation.
+- J'interroge les moyens de lutte contre ces trois premiers mondes, notamment en me basant sur les idées de Jacques Ellul, qui fait l'éloge de la non-puissance (abstention technique).
+- Je questionne aussi notre liberté de choix de s'abstenir - à travers la théorie des capabilités d'Amartya Sen, tout en sachant qu'on n'a peut-être pas toutes les cartes en main.
+- J'envisage ensuite le design fiction comme un outil de mise en débat et de matérialisation des enjeux actuels.
 
 ### Conclusion
 
-Je termine en revenant sur l'idée que nous vivons peut-être aujourd'hui le "vieux" rêve de la cybernétique d'être capable de controller le vivant. Et me demande si finalement, tout ça ne nous ramènera à nous demander : au fond, qu'est-ce qu'on fou là ?
+Je conclue en revenant sur l'idée que nous vivons peut-être aujourd'hui le "vieux" rêve de la cybernétique d'être capable de contrôler le vivant. Et je me demande si finalement, tout ça ne nous ramènera pas à nous interroger : au fond, qu'est-ce qu'on fout là ?
 
 ## Présentation de la carte
 
 ![The Synthetic Worlds](assets/the%20synthetic%20worlds%20light.png)
 
-La carte représente une terre en phase de *numérisation*. La représentation *vivante* qu'on a d'elle est en train de disparaître et de se faire remplacer par une représentation ASCII (norme informatique d'encodage de caractères). Les caractères utilisées sont "Hello World!", les premier mots que fait dire un humain à une machine lorsqu'il apprend à la programmer. 
+La carte représente une terre en phase de *numérisation*. La représentation *vivante* qu'on a d'elle est en train de disparaître et de se faire remplacer par une représentation numérique - ASCII (norme informatique d'encodage de caractères). Les caractères utilisées sont "hello world!", les premier mots que fait dire un humain à une machine lorsqu'il apprend à la programmer. 
 
 ### Concepts
 
-- Le monde s'adapte aux machines (devient lisible)
-- Le monde s'épuise (logique extractivistes de l'IA, environnementale, symbolique et culturelle)
+- Le monde s'adapte aux machines (devient lisible)  
+- Le monde s'épuise (logique extractiviste de l'IA, environnementale, symbolique et culturelle)  
 - Le monde est en fin et/ou en début de cycle : sa numérisation
 
 ### Visuels
 
-- Les doubles barres “//” inscrivent “synthetic” comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle 
+- Les doubles barres "//" inscrivent "synthetic" comme un commentaire de code, et rappellent subtilement les deux bâtons de la figure féminine de la carte originelle 
 - La grille évoque l’uniformisation, la standardisation du monde
 - La typographie de titre est celle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
-- La terre est faire d'une mono avec empattement (standardisation et machine à écrire)
+- La terre est faire d'une fonte mono avec empattement (standardisation et machine à écrire)
 - ASCII évoque la traduction (numérisation) du monde en langage compréhensible par les machines
 - La composition rappelle l'univers cybernétique, notamment Pepsi Pavillon ou l'identité visuelle du [Whole Earth Catalog](../documentation/references/whole%20earth%20catalog.md)
 - La composition fait echo à la [première image de la terre depuis l'espace](../documentation/references/première%20image%20de%20la%20terre%20depuis%20l'espace.md)
@@ -225,7 +225,7 @@ La carte représente une terre en phase de *numérisation*. La représentation *
 ### Processus
 
 - Carte imprimée par un robot (Axidraw). Fait echo au fait que la machine faconne notre représentation du monde (la standardise)
-- Le stylo utilisé est allemand, mais l'intention est d'utiliser un stylo chinois pour parler de la course à la suprématie technologique dans le monde de l'IA entre la Chine et les États-Unis (le robot est américain, le style chinois).
+- Le stylo utilisé est *allemand*, mais l'intention est d'utiliser un stylo *chinois* pour parler de la course à la suprématie technologique dans le monde de l'IA entre la Chine et les États-Unis (le robot est américain, le stylo chinois).
 
 ![](assets/print-1.jpeg)
 
