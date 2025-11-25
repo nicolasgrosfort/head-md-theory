@@ -103,7 +103,7 @@ C’est peut-être aussi ce qu’annonçait, avec une naïveté désarmante, le 
 
 Les mondes synthétiques semblent donc accomplir l’ancien rêve cybernétique : celui d’une réalité entièrement traduite en information - calculable, contrôlable, prédictive. Mais dans ce paysage quadrillé par le calcul, saurons-nous encore distinguer l’humain de la machine ?
 
-C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles, cette zone d’incertitude que nous tentons sans cesse de réduire grâce à des dispositifs dont nous attendons qu’ils nous guident et nous disent *quoi faire* - à l'image de la [Machine d'Anticythère](../documentation/references/machine%20d'anticythère.md) (Wikipedia, 2025). Cette même zone d'incertitude qui - paradoxalement - pourrait nous ramener à des questions de fond: *au final, qu'est-ce qu'on fout là* ?
+C’est peut-être là que se joue notre avenir : dans la part de vivant qui échappe encore aux modèles, cette zone d’incertitude que nous tentons sans cesse de réduire grâce à des dispositifs dont nous attendons qu’ils nous guident et nous disent *quoi faire* - à l'image de la [Machine d'Anticythère](../documentation/references/machine%20d'anticythère.md) (Wikipedia, 2025) ou d’un simple tirage de tarot. Cette même zone d'incertitude qui - paradoxalement - pourrait nous ramener à des questions de fond: *au final, qu'est-ce qu'on fout là* ?
 
 # La Carte 
 
